@@ -1,0 +1,36 @@
+[firstClass] skip
+[firstClass] ditch
+[firstClass] leave
+[firstClass] don't do it
+[thirdClass] listen
+[thirdClass] draw
+[thirdClass] cry
+[fourthClass] sheep
+[fourthClass] dog
+[fourthClass] cat
+[fourthClass] horse
+[fourthClass] game
+[fourthClass] computer
+[fourthClass] water
+[fourthClass] stream
+[fourthClass] sun
+[fourthClass] landscape
+[fourthClass] person
+[fourthClass] people
+[fourthClass] france
+[fourthClass] paris
+[fourthClass] america
+[fourthClass] usa
+[fourthClass] trump
+[fourthClass] obama
+[firstClass] give the teacher an apple
+[firstClass] do my homework
+[firstClass] do work
+[firstClass] from
+[firstClass] teacher
+[firstClass] teacher's desk
+[firstClass] ask kids
+[firstClass] ask deskmate
+[fourthClass] a soda
+[fourthClass] my breakfast
+[fourthClass] alarm clock
